@@ -17,7 +17,7 @@ Demo Day Slides
 
 .. raw:: html
 
-	<iframe width="560" height="315" src="//www.youtube.com/embed/ztdPSbIIwoo" frameborder="0" allowfullscreen></iframe>
+	<script async class="speakerdeck-embed" data-id="32810740e735013027381e5ec92ff887" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 History
 ~~~~~~~
