@@ -1,7 +1,17 @@
 Read the Docs
 -------------
 
-Read the Docs makes hosting documentation easy. We've been an open source project for over 4 years, and now we're bringing that experience to make businesses more awesome.
-
 https://readthedocs.com
 
+.. note:: Sign up with demo code ``ILOVEPIE`` for preferred access to our private beta.
+
+Founders
+~~~~~~~~
+
+* Eric Holscher <eric@readthedocs.com>
+* Anthony Johnson <anthony@readthedocs.com>
+
+Demo Day Slides
+~~~~~~~~~~~~~~~
+
+.. note:: This is a sweet embed
