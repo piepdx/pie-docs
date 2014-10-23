@@ -1,7 +1,7 @@
 Krumplr
 -------
 
-`http://krumpr.com`_
+`http://krumplr.com`_
 
 What we are all about
 ~~~~~~~~~~~~~~~~~~~~~
@@ -52,6 +52,6 @@ James Stuckey
 Demo Day Slides
 ~~~~~~~~~~~~~~~~~~~~~
 
-.. _`http://krumpr.com`: http://krumpr.com/
+.. _`http://krumplr.com`: http://krumplr.com/
 .. _`http://krumplr.com`: http://krumplr.com/
 .. _download the iOS app: https://itunes.apple.com/us/app/task-krumplr/id925410465?mt=8
