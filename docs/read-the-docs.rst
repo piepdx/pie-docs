@@ -1,7 +1,8 @@
 Read the Docs
 -------------
 
-https://readthedocs.com
+| https://readthedocs.com
+| https://twitter.com/readthedocs
 
 .. raw:: html
 
