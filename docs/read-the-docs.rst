@@ -1,6 +1,8 @@
 Read the Docs
 -------------
 
+*Documentation Developers Love*
+
 | https://readthedocs.com
 | https://twitter.com/readthedocs
 
