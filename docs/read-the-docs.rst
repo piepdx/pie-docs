@@ -26,12 +26,6 @@ check out https://readthedocs.org
 
 Please let me know if you have any more questions about PIE or Read the Docs.
 
-readthedocs.org Public Stats
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* `2013 stats <http://ericholscher.com/blog/2013/dec/23/read-the-docs-2013-stats/>`_
-* `Last 30 days <http://www.seethestats.com/site/readthedocs.org>`_
-
 Founders
 ~~~~~~~~
 
@@ -39,7 +33,7 @@ Eric Holscher
 
 | eric@readthedocs.com
 | http://ericholscher.com
-| https://twitter.com/ericholscher
+| http://twitter.com/ericholscher
 
 .. raw:: html
 
@@ -50,11 +44,17 @@ Anthony Johnson
 
 | anthony@readthedocs.com
 | http://ohess.org
-| `@agjhnsn`_
-
-.. _`@agjhnsn`: https://twitter.com/agjhnsn
+| http://twitter.comagjhnsn
 
 .. raw:: html
 
    <br>
+
+readthedocs.org Public Stats
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* `2013 stats <http://ericholscher.com/blog/2013/dec/23/read-the-docs-2013-stats/>`_
+* `Last 30 days <http://www.seethestats.com/site/readthedocs.org>`_
+
+
 
