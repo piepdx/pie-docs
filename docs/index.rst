@@ -1,7 +1,10 @@
 PIE Demo Day Companies
 ======================
 
-Thanks for your interest in our demo day. Below is a bit more information about our companies.
+Thanks for your interest in our demo day. 
+Here is more information about our companies.
+
+Listed below in the order of presentation.
 
 Supportland
 -----------
