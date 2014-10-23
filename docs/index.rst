@@ -68,10 +68,8 @@ Founders
 Slides and more information is available on the :doc:`read-the-docs` page.
 
 
-Contents
---------
-
 .. toctree::
+   :hidden:
    :glob:
 
    supportland
