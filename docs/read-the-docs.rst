@@ -29,8 +29,8 @@ Please let me know if you have any more questions about PIE or Read the Docs.
 readthedocs.org Public Stats
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-2013 stats: http://ericholscher.com/blog/2013/dec/23/read-the-docs-2013-stats/
-Last 30 days: http://www.seethestats.com/site/readthedocs.org
+* 2013 stats: http://ericholscher.com/blog/2013/dec/23/read-the-docs-2013-stats/
+* Last 30 days: http://www.seethestats.com/site/readthedocs.org
 
 Founders
 ~~~~~~~~
