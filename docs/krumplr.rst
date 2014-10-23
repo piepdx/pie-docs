@@ -33,7 +33,7 @@ Founders
 Kai Maetzel 
 
 | Email: kai@krumplr.com 
-| Twitter: @kaimaetzel 
+| Twitter: `@kaimaetzel <http://twitter.com/kaimaetzel>`_
 | LinkedIn: http://tinyurl.com/o3gtp6j
 
 .. raw:: html
