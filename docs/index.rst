@@ -3,42 +3,54 @@ PIE Demo Day Companies
 
 Thanks for your interest in our demo day. Below is a bit more information about our companies.
 
-
-
 Supportland
 -----------
 
 https://supportland.com/
+
+See more on the :doc:`supportland` page.
 
 Outdoor Project
 ----------------
 
 http://www.outdoorproject.com/
 
+See more on the :doc:`outdoor-project` page.
+
 Droplr
 ----------------
 
 https://droplr.com/
+
+See more on the :doc:`droplr` page.
 
 Nutmeg
 ----------------
 
 http://www.thisisnutmeg.com/
 
+See more on the :doc:`nutmeg` page.
+
 WorldState
 ----------------
 
 http://www.worldstateapp.com/
+
+See more on the :doc:`worldstate` page.
 
 Krumplr
 ----------------
 
 http://krumplr.com/
 
+See more on the :doc:`krumplr` page.
+
 Shoptender
 ----------------
 
 http://shoptender.io/
+
+See more on the :doc:`shoptender` page.
 
 Read the Docs
 -------------
