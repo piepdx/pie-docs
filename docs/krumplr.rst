@@ -30,11 +30,24 @@ You can also `download the iOS app`_ from the App Store.
 Founders
 ~~~~~~~~~~~~~~~~~~~~~
 
-Kai Maetzel email: kai@krumplr.com twitter: @kaimaetzel LinkedIn:
-http://tinyurl.com/o3gtp6j
+Kai Maetzel 
 
-James Stuckey email: james@krumplr.com LinkedIn:
-http://tinyurl.com/n7altxw
+| Email: kai@krumplr.com 
+| Twitter: @kaimaetzel 
+| LinkedIn: http://tinyurl.com/o3gtp6j
+
+.. raw:: html
+
+   <br>
+
+James Stuckey 
+
+| Email: james@krumplr.com 
+| LinkedIn: http://tinyurl.com/n7altxw
+
+.. raw:: html
+
+   <br>
 
 Demo Day Slides
 ~~~~~~~~~~~~~~~~~~~~~
