@@ -1,14 +1,9 @@
 Read the Docs
 -------------
 
-| https://readthedocs.com
-| https://twitter.com/readthedocs
+https://readthedocs.com
 
 .. note:: Private beta available today. Sign up to get access first!
-
-.. raw:: html
-
-   <br>
 
 About us 
 ~~~~~~~~
@@ -47,9 +42,9 @@ Anthony Johnson
 
 | anthony@readthedocs.com
 | http://ohess.org
-| @agjhnsn_
+| `@agjhnsn`_
 
-.. _@agjhnsn: https://twitter.com/agjhnsn
+.. _`@agjhnsn`: https://twitter.com/agjhnsn
 
 .. raw:: html
 
