@@ -3,7 +3,12 @@ Read the Docs
 
 https://readthedocs.com
 
+.. raw:: html
+
+   <br>
+
 .. note:: Private beta available today. Sign up to get access first!
+
 
 About us 
 ~~~~~~~~
