@@ -6,6 +6,10 @@ Read the Docs
 
 .. note:: Private beta available today. Sign up to get access first!
 
+.. raw:: html
+
+   <br>
+
 About us 
 ~~~~~~~~
 
