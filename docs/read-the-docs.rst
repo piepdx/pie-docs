@@ -41,6 +41,10 @@ Eric Holscher
 Anthony Johnson 
 
 | anthony@readthedocs.com
+| http://ohess.org
+| @agjhnsn_
+
+.. _@agjhnsn: https://twitter.com/agjhnsn
 
 .. raw:: html
 
