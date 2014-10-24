@@ -2,7 +2,8 @@ Krumplr
 -------
 
 | http://krumplr.com
-| `Demo Day presentation`_
+
+`Demo Day presentation`_
 
 .. _`Demo Day presentation`: http://d.pr/f/Gscs
 

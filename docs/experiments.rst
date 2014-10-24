@@ -9,7 +9,7 @@ http://xobxob.com
 `@xobxobmob`_
 
 What XOBXOB is About
---------------------
+^^^^^^^^^^^^^^^^^^^^
 
 Friendly Smart Things.
 
@@ -18,7 +18,7 @@ Imagine. Your home knows when you’ve had a bad day. When you return, the light
 Right now, the thing about the Internet of Things, is that it’s a lot of things connecting with other things. XOBXOB is working on connecting things with you to create personal and responsive experiences.
 
 Founder
--------
+^^^^^^^
 
 | Robert Gallup
 | Email: bob@xobxob.com

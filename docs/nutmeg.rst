@@ -3,6 +3,9 @@ Nutmeg
 
 | http://thisisnutmeg.com/
 
+`A Dash of Nutmeg`_
+.. _`A Dash of Nutmeg`: https://medium.com/@thejulielogan/2de1c5414906
+
 What are we all about
 ~~~~~~~~~~~~~~~~~~~~~
 
@@ -23,7 +26,9 @@ Julie Logan, CEO and Founder
 
 | julie@thisisnutmeg.com
 | https://www.linkedin.com/in/thejulielogan
-| `@thejulielogan <http://twitter.com/thejulielogan>`_
+| `@thejulielogan`_
+
+.. _`@thejulielogan: http://twitter.com/thejulielogan
 
 Kevin Brege, COO
 
