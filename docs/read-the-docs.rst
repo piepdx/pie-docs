@@ -35,6 +35,13 @@ Anthony Johnson
 | https://twitter.com/agjhnsn
 
 
+Demo Day Slides
+~~~~~~~~~~~~~~~
+
+.. raw:: html
+
+    <script async class="speakerdeck-embed" data-id="bf13a3d03df70132b6c056cb37b563fb" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
 readthedocs.org Public Stats
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
