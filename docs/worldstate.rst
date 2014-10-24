@@ -1,8 +1,8 @@
 WorldState
 -----------
 
-| worldstateapp.com
-| https://www.facebook.com/worldstateapp
+| http://worldstateapp.com
+| http://www.facebook.com/worldstateapp
 
 WorldState is a platform and newsletter that contextualizes news and makes it easier to be informed. 
 
