@@ -2,7 +2,8 @@ Shoptender
 ----------
 
 | http://shoptender.io
-| `Demo day presentation`_
+
+`Demo day presentation`_
 
 .. _`Demo Day presentation`: http://d.pr/f/12enm/4QT5mZel
 
@@ -26,11 +27,14 @@ Founders
 Megan Fisher
 
 | Email: megan@shoptender.io
-| Twitter: @mfisherPDX
+| Twitter: `@mfisherPDX`_
 | LinkedIn: www.linkedin.com/in/megankfisher/
 
 Jer Warren
 
 | Email: jer@shoptender.io
-| Twitter: @nyquildotorg
+| Twitter: `@nyquildotorg`_
 | LinkedIn: www.linkedin.com/pub/jer-warren/96/621/994
+
+.. _@mfisherPDX: https://twitter.com/megankfisher
+.. _@nyquildotorg: https://twitter.com/nyquildotorg
