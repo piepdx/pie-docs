@@ -7,6 +7,7 @@ Here is more information about our companies.
 Listed below in the order of presentation.
 
 .. toctree::
+   :maxdepth: 1
 
    supportland
    outdoor-project
