@@ -20,7 +20,7 @@ Private Beta
 Join our private beta! Sign up at `http://krumplr.com`_ and help us
 improve what we’ve already built and shape what we still need to build.
 
-You refer new customers to us by sharing a list with somebody who has not signed up yet. Refer 5 new users to us and we give you our Pro offering free for 1 year starting the day it is available. Refer 10 new users and you become a Pro user for free for life.  Since effective to-do management is all about gaining time so you have more of it to have fun, we have another perk for you.  If you are one of the first 500 to refer at least 5 new users, you’ll also get a free 1-yr Pro membership at `Outdoor Project` <http://www.outdoorproject.com>`_
+You refer new customers to us by sharing a list with somebody who has not signed up yet. Refer 5 new users to us and we give you our Pro offering free for 1 year starting the day it is available. Refer 10 new users and you become a Pro user for free for life.  Since effective to-do management is all about gaining time so you have more of it to have fun, we have another perk for you.  If you are one of the first 500 to refer at least 5 new users, you’ll also get a free 1-yr Pro membership at `Outdoor Project <http://www.outdoorproject.com>`_
 
 You can also `download the iOS app`_ from the App Store.
 
