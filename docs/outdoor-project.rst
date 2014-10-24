@@ -1,8 +1,6 @@
 Outdoor Project
 ---------------
 
-*Find Your Adventure*
-
 | http://www.outdoorproject.com
 | http://twitter.com/outdoorproject
 

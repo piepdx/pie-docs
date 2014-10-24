@@ -1,14 +1,8 @@
 Read the Docs
 -------------
 
-*Documentation Developers Love*
-
 | https://readthedocs.com
 | https://twitter.com/readthedocs
-
-
-.. note:: Private beta available today. Sign up to get access first!
-
 
 About us 
 ~~~~~~~~
