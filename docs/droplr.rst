@@ -7,6 +7,10 @@ Collaboration is key in design, whether it’s swapping ideas with
 colleagues or sharing comps with clients. Droplr is a simple cloud file
 sharing tool that makes sharing your stuff second nature.
 
+`Demo Day presentation`_
+
+.. _`Demo Day presentation`: http://d.pr/f/1i4hv+
+
 About
 ~~~~~~~~~~~~~
 

@@ -2,6 +2,9 @@ Krumplr
 -------
 
 | http://krumplr.com
+| `Demo Day presentation`_
+
+.. _`Demo Day presentation`: http://d.pr/f/Gscs
 
 What we are all about
 ~~~~~~~~~~~~~~~~~~~~~
@@ -27,15 +30,17 @@ You can also `download the iOS app`_ from the App Store.
 Founders
 ~~~~~~~~~~~~~~~~~~~~~
 
-Kai Maetzel 
+Kai Maetzel
 
-| Email: kai@krumplr.com 
-| Twitter: `@kaimaetzel <http://twitter.com/kaimaetzel>`_
+| Email: kai@krumplr.com
+| Twitter: `@kaimaetzel`_
 | LinkedIn: http://tinyurl.com/o3gtp6j
+
+.. _`@kaimaetzel`: http://twitter.com/kaimaetzel
 
 James Stuckey 
 
-| Email: james@krumplr.com 
+| Email: james@krumplr.com
 | LinkedIn: http://tinyurl.com/n7altxw
 
 Demo Day Slides

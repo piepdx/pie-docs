@@ -3,6 +3,9 @@ Outdoor Project
 
 | http://www.outdoorproject.com
 | http://twitter.com/outdoorproject
+| `Demo Day presentation`_
+
+.. _`Demo Day presentation`: http://d.pr/f/14Bd0/kQHiFwD7
 
 What we're doing
 ~~~~~~~~~~~~~~~~

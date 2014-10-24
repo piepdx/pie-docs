@@ -24,7 +24,7 @@ Eric Holscher
 
 | eric@readthedocs.com
 | http://ericholscher.com
-| http://twitter.com/ericholscher
+| https://twitter.com/ericholscher
 
 
 
@@ -32,7 +32,7 @@ Anthony Johnson
 
 | anthony@readthedocs.com
 | http://ohess.org
-| http://twitter.comagjhnsn
+| https://twitter.com/agjhnsn
 
 
 readthedocs.org Public Stats
@@ -40,6 +40,3 @@ readthedocs.org Public Stats
 
 * `2013 stats <http://ericholscher.com/blog/2013/dec/23/read-the-docs-2013-stats/>`_
 * `Last 30 days <http://www.seethestats.com/site/readthedocs.org>`_
-
-
-

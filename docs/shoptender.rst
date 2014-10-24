@@ -2,6 +2,9 @@ Shoptender
 ----------
 
 | http://shoptender.io
+| `Demo day presentation`_
+
+.. _`Demo Day presentation`: http://d.pr/f/12enm/4QT5mZel
 
 What we are all about
 ~~~~~~~~~~~~~~~~~~~~~~
