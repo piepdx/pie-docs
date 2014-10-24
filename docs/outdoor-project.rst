@@ -10,17 +10,17 @@ Outdoor Project
 
    <br>
 
-
 What we're doing
 ~~~~~~~~~~~~~~~~
 
-Your next adventure is waiting. Find it here and get the essential information you need to make it happen.
+Outdoor Project is revolutionizing the way people get outside and have an incredible outdoor experience. It’s a place where you can find your next adventure and get the essentials you need to make it happen.
+
+We currently feature over 1,500 adventures across the West Coast, covering every type of human-powered adventure. This includes the popular, but often overlooked, adventures like swimming holes, lakes and campgrounds. Each comes with a field guide and custom map so you have everything you need for a great trip.
 
 Founders
 ~~~~~~~~
 
-Tyson Gillard 
-CEO + Co-Founder
+Tyson Gillard, CEO
 
 | tyson@outdoorproject.com
 
@@ -29,12 +29,27 @@ CEO + Co-Founder
    <br>
 
 
-Jared Kennedy
-COO + Co-Founder
+Jared Kennedy, COO
 
-| jared@outdoorproject.com
-
+| jaredkennedy@outdoorproject.com
 
 .. raw:: html
 
    <br>
+
+Tim Rasmussen, CTO
+
+| timrasmussen@outdoorproject.com
+
+.. raw:: html
+
+   <br>
+
+Aron Bosworth, Chief Adventure Officer
+
+| aronbosworth@outdoorproject.com
+
+.. raw:: html
+
+   <br>
+

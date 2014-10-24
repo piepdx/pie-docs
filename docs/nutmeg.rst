@@ -19,8 +19,7 @@ and more time enjoying conversations with your friends.
 Team
 ~~~~
 
-Julie Logan
-CEO and Founder
+Julie Logan, CEO and Founder
 
 | julie@thisisnutmeg.com
 | https://www.linkedin.com/in/thejulielogan
@@ -30,8 +29,7 @@ CEO and Founder
 
    <br>
 
-Kevin Brege
-COO
+Kevin Brege, COO
 
 | kevin@thisisnutmeg.com
 | https://www.linkedin.com/in/kevinbrege
