@@ -1,10 +1,9 @@
 WorldState
 -----------
 
+WorldState is a platform and newsletter that contextualizes news and makes it easier to be informed. 
 | http://worldstateapp.com
 | http://www.facebook.com/worldstateapp
-
-WorldState is a platform and newsletter that contextualizes news and makes it easier to be informed. 
 
 Team
 ~~~~~
