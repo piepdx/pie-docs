@@ -20,7 +20,7 @@ Founder
 | Robert Gallup
 | Email: bob@xobxob.com
 | Twitter: `@robertgallup`_
-| LinkedIn: linkedin.com/in/robertgallup
+| LinkedIn: https://linkedin.com/in/robertgallup
 
 .. _`@xobxobmob`: https://twitter.com/xobxobmob
 .. _`@robertgallup`: https://twitter.com/robertgallup
