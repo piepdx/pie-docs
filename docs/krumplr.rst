@@ -3,10 +3,6 @@ Krumplr
 
 | http://krumplr.com
 
-`Demo Day presentation`_
-
-.. _`Demo Day presentation`: http://d.pr/f/Gscs
-
 What we are all about
 ~~~~~~~~~~~~~~~~~~~~~
 
@@ -47,6 +43,9 @@ James Stuckey
 Demo Day Slides
 ~~~~~~~~~~~~~~~~~~~~~
 
+`Krumplr Demo Day presentation`_
+
 .. _`http://krumplr.com`: http://krumplr.com/
 .. _`http://krumplr.com`: http://krumplr.com/
 .. _download the iOS app: https://itunes.apple.com/us/app/task-krumplr/id925410465?mt=8
+.. _`Krumplr Demo Day presentation`: http://d.pr/f/Gscs

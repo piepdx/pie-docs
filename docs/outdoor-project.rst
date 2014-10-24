@@ -3,9 +3,6 @@ Outdoor Project
 
 | http://www.outdoorproject.com
 | http://twitter.com/outdoorproject
-| `Demo Day presentation`_
-
-.. _`Demo Day presentation`: http://d.pr/f/14Bd0/kQHiFwD7
 
 What we're doing
 ~~~~~~~~~~~~~~~~
@@ -33,4 +30,11 @@ Tim Rasmussen, CTO
 Aron Bosworth, Chief Adventure Officer
 
 | aronbosworth@outdoorproject.com
+
+Demo Day Slides
+~~~~~~~~~~~~~~~
+
+| `Outdoor Project Demo Day presentation`_
+
+.. _`Outdoor Project Demo Day presentation`: http://d.pr/f/14Bd0/kQHiFwD7
 

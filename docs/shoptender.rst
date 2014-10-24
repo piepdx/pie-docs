@@ -3,10 +3,6 @@ Shoptender
 
 | http://shoptender.io
 
-`Demo day presentation`_
-
-.. _`Demo Day presentation`: http://d.pr/f/12enm/4QT5mZel
-
 What we are all about
 ~~~~~~~~~~~~~~~~~~~~~~
 
@@ -38,3 +34,11 @@ Jer Warren
 
 .. _@mfisherPDX: https://twitter.com/megankfisher
 .. _@nyquildotorg: https://twitter.com/nyquildotorg
+
+Demo Day Slides
+~~~~~~~~~~~~~~~
+
+`Shoptender Demo day presentation`_
+
+.. _Shoptender Demo day presentation: http://d.pr/f/12enm/4QT5mZel
+
