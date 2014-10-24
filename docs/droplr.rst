@@ -1,7 +1,7 @@
 Droplr
 ------
 
-https://droplr.com
+| https://droplr.com
 
 Collaboration is key in design, whether it’s swapping ideas with
 colleagues or sharing comps with clients. Droplr is a simple cloud file
