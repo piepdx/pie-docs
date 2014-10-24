@@ -25,15 +25,7 @@ Julie Logan, CEO and Founder
 | https://www.linkedin.com/in/thejulielogan
 | `@thejulielogan <http://twitter.com/thejulielogan>`_
 
-.. raw:: html
-
-   <br>
-
 Kevin Brege, COO
 
 | kevin@thisisnutmeg.com
 | https://www.linkedin.com/in/kevinbrege
-
-.. raw:: html
-
-   <br>

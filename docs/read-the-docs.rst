@@ -6,9 +6,6 @@ Read the Docs
 | https://readthedocs.com
 | https://twitter.com/readthedocs
 
-.. raw:: html
-
-   <br>
 
 .. note:: Private beta available today. Sign up to get access first!
 
@@ -35,9 +32,6 @@ Eric Holscher
 | http://ericholscher.com
 | http://twitter.com/ericholscher
 
-.. raw:: html
-
-   <br>
 
 
 Anthony Johnson 
@@ -46,9 +40,6 @@ Anthony Johnson
 | http://ohess.org
 | http://twitter.comagjhnsn
 
-.. raw:: html
-
-   <br>
 
 readthedocs.org Public Stats
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~

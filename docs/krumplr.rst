@@ -36,18 +36,10 @@ Kai Maetzel
 | Twitter: `@kaimaetzel <http://twitter.com/kaimaetzel>`_
 | LinkedIn: http://tinyurl.com/o3gtp6j
 
-.. raw:: html
-
-   <br>
-
 James Stuckey 
 
 | Email: james@krumplr.com 
 | LinkedIn: http://tinyurl.com/n7altxw
-
-.. raw:: html
-
-   <br>
 
 Demo Day Slides
 ~~~~~~~~~~~~~~~~~~~~~

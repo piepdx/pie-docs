@@ -6,10 +6,6 @@ Outdoor Project
 | http://www.outdoorproject.com
 | http://twitter.com/outdoorproject
 
-.. raw:: html
-
-   <br>
-
 What we're doing
 ~~~~~~~~~~~~~~~~
 
@@ -24,32 +20,16 @@ Tyson Gillard, CEO
 
 | tyson@outdoorproject.com
 
-.. raw:: html
-
-   <br>
-
 
 Jared Kennedy, COO
 
 | jaredkennedy@outdoorproject.com
 
-.. raw:: html
-
-   <br>
-
 Tim Rasmussen, CTO
 
 | timrasmussen@outdoorproject.com
 
-.. raw:: html
-
-   <br>
-
 Aron Bosworth, Chief Adventure Officer
 
 | aronbosworth@outdoorproject.com
-
-.. raw:: html
-
-   <br>
 
