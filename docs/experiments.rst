@@ -1,33 +1,17 @@
 PIE Experiments
 ===============
 
-XOBXOB
-------
+First Kiss
+----------
 
-http://xobxob.com
+First Kiss is an online atlas of first kisses being developed at Cairn Labs by
+PIE solo-founder Kris Wallsmith. When it launches later this year you will be
+able to add your first kiss to the map and listen to the stories of other first
+kisses around you. Discover the world in a new and interesting way.
 
-`@xobxobmob`_
+Join the mailing list at `firstkiss.io`_ to be notified as the launch approaches.
 
-What XOBXOB is About
-^^^^^^^^^^^^^^^^^^^^
-
-Friendly Smart Things.
-
-Imagine. Your home knows when you’ve had a bad day. When you return, the lights are on and the fire is burning. And, maybe, your favorite drink is mixed and waiting. This reality is still in the future, but with the explosion of the Internet of Things, it’s closer than you might imagine.
-
-Right now, the thing about the Internet of Things, is that it’s a lot of things connecting with other things. XOBXOB is working on connecting things with you to create personal and responsive experiences.
-
-Founder
-^^^^^^^
-
-| Robert Gallup
-| Email: bob@xobxob.com
-| Twitter: `@robertgallup`_
-| LinkedIn: https://linkedin.com/in/robertgallup
-
-.. _@xobxobmob: https://twitter.com/xobxobmob
-.. _@robertgallup: https://twitter.com/robertgallup
-
+.. _firstkiss.io: http://firstkiss.io
 
 
 WANT
@@ -64,3 +48,30 @@ reality.
 .. _@WANT_TeenNews: https://twitter.com/WANT_TeenNews
 .. _@want_teen_news: https://instagram.com/want_teen_news
 
+
+XOBXOB
+------
+
+http://xobxob.com
+
+`@xobxobmob`_
+
+What XOBXOB is About
+^^^^^^^^^^^^^^^^^^^^
+
+Friendly Smart Things.
+
+Imagine. Your home knows when you’ve had a bad day. When you return, the lights are on and the fire is burning. And, maybe, your favorite drink is mixed and waiting. This reality is still in the future, but with the explosion of the Internet of Things, it’s closer than you might imagine.
+
+Right now, the thing about the Internet of Things, is that it’s a lot of things connecting with other things. XOBXOB is working on connecting things with you to create personal and responsive experiences.
+
+Founder
+^^^^^^^
+
+| Robert Gallup
+| Email: bob@xobxob.com
+| Twitter: `@robertgallup`_
+| LinkedIn: https://linkedin.com/in/robertgallup
+
+.. _@xobxobmob: https://twitter.com/xobxobmob
+.. _@robertgallup: https://twitter.com/robertgallup
