@@ -1,12 +1,12 @@
 WorldState
 -----------
 
+| http://worldstateapp.com
+| http://www.facebook.com/worldstateapp
+
 Keeping up with the news is hard. Staying informed, yet unbiased with the constant reveal of new sources and a constant spew of information is hard.  By the time you get through one article, five more have appeared that all demand your attention and focus. WorldState is easy. 
 
 WorldState aims to give you the news about your world in easily digestible pieces that build upon one another so you never feel like you're left behind. You get the facts -- who, what, when, where, and why -- without the bias so you can draw an opinion yourself, or just read the facts. We never assume prior knowledge on a topic so all of the news we curate comes from a fresh start so you never feel left out or uninformed. We report on the relevant and we take all the work out of being up to date for you. Log on once, have the entire story, from beginning to end with new developments and old ones, at your finger tips. 
-
-| http://worldstateapp.com
-| http://www.facebook.com/worldstateapp
 
 Team
 ~~~~~
