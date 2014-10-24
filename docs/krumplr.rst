@@ -1,7 +1,7 @@
 Krumplr
 -------
 
-`http://krumplr.com`_
+http://krumplr.com
 
 What we are all about
 ~~~~~~~~~~~~~~~~~~~~~
