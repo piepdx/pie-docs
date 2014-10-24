@@ -14,11 +14,13 @@ Supportland will be launching Version 2 of our platform next week in Portland fo
 
 Our Team
 ~~~~~~~~
+
 Michael and Katrina Scotto di Carlo started Supportland in 2010 because they love independent businesses and felt they could do more to support them. Katrina and Michael combined their backgrounds in technology and art to build a sophisticated, easy-to-use software platform specifically for independent businesses. They have expanded their team to include people in web development, sales and communications.
 
 Contact
 ~~~~~~
-Contact
+
 Katrina Scotto di Carlo, CMO
-katrina@supportland.com
-503-283-0012
+
+| katrina@supportland.com
+| 503-283-0012
