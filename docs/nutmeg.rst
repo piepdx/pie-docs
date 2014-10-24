@@ -5,7 +5,7 @@ Nutmeg
 
 `A Dash of Nutmeg`_
 
-.. _A Dash of Nutmeg: https://medium.com/@thejulielogan/2de1c5414906
+.. _A Dash of Nutmeg: https://medium.com/@thejulielogan/aafbc376d025
 
 What are we all about
 ~~~~~~~~~~~~~~~~~~~~~
