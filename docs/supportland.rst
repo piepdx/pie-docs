@@ -10,7 +10,7 @@ Independent businesses make up about one-third of the U.S. economy, but are unab
 Our Technology
 ~~~~~~~~
 
-Under the guise of simply opting into cross promotions, Supportland enables independent businesses to leverage data in a way that works seamlessly with their existing their work flow. No number crunching. No lengthy staff trainings. No proprietary equipment. Supportland radically reframes local economies into one cohesive experience for business owners, employees and their customers.
+Under the guise of simply opting into cross promotions, Supportland enables independent businesses to leverage data in a way that works seamlessly with their existing work flow. No number crunching. No lengthy staff trainings. No proprietary equipment. Supportland radically reframes local economies into one cohesive experience for business owners, employees and their customers.
 
 Supportland will be launching Version 2 of our platform next week in Portland followed up by launches in other Northwest communities in November. Please contact Katrina Scotto di Carlo to follow up.
 
