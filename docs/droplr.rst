@@ -13,7 +13,9 @@ PIE Demo Day - Oct 24, 2014
 .. raw:: html
 
     <iframe width="560" height="315" src="//www.youtube.com/embed/dqjnEgSRCC4?list=PLFDgm_9P62ut5sSOPTMMoiz8Xb2z-nJdz&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+`Droplr demo day slides (PDF)`_
 
+.. _Droplr Demo Day presentation: http://d.pr/f/1i4hv+
 About
 ~~~~~~~~~~~~~
 
@@ -52,11 +54,4 @@ Levi Nunnink,
 
 | levi@droplr.com
 | 530-559-0899
-
-Demo Day Slides
-~~~~~~~~~~~~~~~
-
-`Droplr Demo Day presentation`_
-
-.. _Droplr Demo Day presentation: http://d.pr/f/1i4hv+
 
