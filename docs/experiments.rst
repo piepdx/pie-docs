@@ -1,5 +1,12 @@
 PIE Experiments
 ===============
+PIE Demo Day - Oct 24, 2014
+~~~~~~~~~~~~~~~~~~~~~
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="//www.youtube.com/embed/eCySGB6y8zc?list=PLFDgm_9P62ut5sSOPTMMoiz8Xb2z-nJdz&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 
 First Kiss
 ----------
