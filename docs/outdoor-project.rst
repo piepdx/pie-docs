@@ -4,6 +4,14 @@ Outdoor Project
 | http://www.outdoorproject.com
 | http://twitter.com/outdoorproject
 
+PIE Demo Day - Oct 24, 2014
+~~~~~~~~~~~~~~~~~~~~~
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="//www.youtube.com/embed/x1_yiowXHUs?list=PLFDgm_9P62ut5sSOPTMMoiz8Xb2z-nJdz&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+
 What we're doing
 ~~~~~~~~~~~~~~~~
 
@@ -17,7 +25,6 @@ Founders
 Tyson Gillard, CEO
 
 | tyson@outdoorproject.com
-
 
 Jared Kennedy, COO
 
