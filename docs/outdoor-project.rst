@@ -10,7 +10,9 @@ PIE Demo Day - Oct 24, 2014
 .. raw:: html
 
     <iframe width="560" height="315" src="//www.youtube.com/embed/x1_yiowXHUs?list=PLFDgm_9P62ut5sSOPTMMoiz8Xb2z-nJdz&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+`Outdoor Project demo day slides (pdf)`_
 
+.. _`Outdoor Project Demo Day presentation`: http://d.pr/f/14Bd0/kQHiFwD7
 
 What we're doing
 ~~~~~~~~~~~~~~~~
@@ -37,11 +39,4 @@ Tim Rasmussen, CTO
 Aron Bosworth, Chief Adventure Officer
 
 | aronbosworth@outdoorproject.com
-
-Demo Day Slides
-~~~~~~~~~~~~~~~
-
-| `Outdoor Project Demo Day presentation`_
-
-.. _`Outdoor Project Demo Day presentation`: http://d.pr/f/14Bd0/kQHiFwD7
 
