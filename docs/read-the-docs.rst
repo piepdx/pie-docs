@@ -4,6 +4,17 @@ Read the Docs
 | https://readthedocs.com
 | https://twitter.com/readthedocs
 
+PIE Demo Day - Oct 24, 2014
+~~~~~~~~~~~~~~~~~~~~~
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="//www.youtube.com/embed/U6ueKExLzSY?list=PLFDgm_9P62ut5sSOPTMMoiz8Xb2z-nJdz&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+`Read the Docs demo day slides (PDF)`_
+
+.. _`Read the Docs Demo Day slides (PDF)`: http://d.pr/f/16J7G
+
+
 About us 
 ~~~~~~~~
 
@@ -34,13 +45,6 @@ Anthony Johnson
 | http://ohess.org
 | https://twitter.com/agjhnsn
 
-
-Demo Day Slides
-~~~~~~~~~~~~~~~
-
-.. raw:: html
-
-    <script async class="speakerdeck-embed" data-id="bf13a3d03df70132b6c056cb37b563fb" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 readthedocs.org Public Stats
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
