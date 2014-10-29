@@ -1,7 +1,15 @@
 Krumplr
 -------
-
 | http://krumplr.com
+
+PIE Demo Day - Oct 24, 2014
+~~~~~~~~~~~~~~~~~~~~~
+
+| `Krumplr demo day presentation (YouTube)`_
+`Krumplr demo day slides (PDF)`_
+
+.. _`Krumplr Demo Day presentation (YouTube)`: https://www.youtube.com/watch?v=Ch0qv1JQcjk&list=PLFDgm_9P62ut5sSOPTMMoiz8Xb2z-nJdz&index=8
+.. _`Krumplr Demo Day slides (PDF)`: http://d.pr/f/Gscs
 
 What we are all about
 ~~~~~~~~~~~~~~~~~~~~~
@@ -40,12 +48,6 @@ James Stuckey
 | Email: james@krumplr.com
 | LinkedIn: http://tinyurl.com/n7altxw
 
-Demo Day Slides
-~~~~~~~~~~~~~~~~~~~~~
-
-`Krumplr Demo Day presentation`_
-
 .. _`http://krumplr.com`: http://krumplr.com/
 .. _`http://krumplr.com`: http://krumplr.com/
 .. _download the iOS app: https://itunes.apple.com/us/app/task-krumplr/id925410465?mt=8
-.. _`Krumplr Demo Day presentation`: http://d.pr/f/Gscs
