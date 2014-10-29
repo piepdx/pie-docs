@@ -10,9 +10,9 @@ PIE Demo Day - Oct 24, 2014
 
     <iframe width="560" height="315" src="//www.youtube.com/embed/erC8h8nzegw?list=PLFDgm_9P62ut5sSOPTMMoiz8Xb2z-nJdz&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-`A Dash of Nutmeg`_
+`A Dash of Nutmeg (demo day transcript + slides)`_
 
-.. _A Dash of Nutmeg: https://medium.com/@thejulielogan/aafbc376d025
+.. _A Dash of Nutmeg (demo day transcript + slides): https://medium.com/@thejulielogan/aafbc376d025
 
 What are we all about
 ~~~~~~~~~~~~~~~~~~~~~
