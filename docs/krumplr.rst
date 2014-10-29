@@ -6,7 +6,7 @@ PIE Demo Day - Oct 24, 2014
 ~~~~~~~~~~~~~~~~~~~~~
 
 | `Krumplr demo day presentation (YouTube)`_
-`Krumplr demo day slides (PDF)`_
+| `Krumplr demo day slides (PDF)`_
 
 .. _`Krumplr Demo Day presentation (YouTube)`: https://www.youtube.com/watch?v=Ch0qv1JQcjk&list=PLFDgm_9P62ut5sSOPTMMoiz8Xb2z-nJdz&index=8
 .. _`Krumplr Demo Day slides (PDF)`: http://d.pr/f/Gscs
