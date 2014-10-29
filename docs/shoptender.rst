@@ -3,6 +3,16 @@ Shoptender
 
 | http://shoptender.io
 
+PIE Demo Day - Oct 24, 2014
+~~~~~~~~~~~~~~~~~~~~~
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="//www.youtube.com/embed/wgOG0MxmyDg?list=PLFDgm_9P62ut5sSOPTMMoiz8Xb2z-nJdz&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+`Shoptender demo day slides (pdf)`_
+
+.. _Shoptender demo day slides (pdf): http://d.pr/f/12enm/4QT5mZel
+
 What we are all about
 ~~~~~~~~~~~~~~~~~~~~~~
 
@@ -34,11 +44,3 @@ Jer Warren
 
 .. _@mfisherPDX: https://twitter.com/megankfisher
 .. _@nyquildotorg: https://twitter.com/nyquildotorg
-
-Demo Day Slides
-~~~~~~~~~~~~~~~
-
-`Shoptender Demo day presentation`_
-
-.. _Shoptender Demo day presentation: http://d.pr/f/12enm/4QT5mZel
-
