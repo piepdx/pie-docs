@@ -10,7 +10,7 @@ PIE Demo Day - Oct 24, 2014
 
 
 First Kiss
-----------
+~~~~~~~~~~~~~~~~~~~~~
 
 First Kiss is an online atlas of first kisses being developed at Cairn Labs by
 PIE solo-founder Kris Wallsmith. When it launches later this year you will be
@@ -23,7 +23,7 @@ Join the mailing list at `firstkiss.io`_ to be notified as the launch approaches
 
 
 WANT
-----
+~~~~~~~~~~~~~~~~~~~~~
 
 | http://www.wantnewsforteens.com
 
@@ -58,7 +58,7 @@ reality.
 
 
 XOBXOB
-------
+~~~~~~~~~~~~~~~~~~~~~
 
 http://xobxob.com
 
