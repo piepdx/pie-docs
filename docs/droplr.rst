@@ -15,7 +15,7 @@ PIE Demo Day - Oct 24, 2014
     <iframe width="560" height="315" src="//www.youtube.com/embed/dqjnEgSRCC4?list=PLFDgm_9P62ut5sSOPTMMoiz8Xb2z-nJdz&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 `Droplr demo day slides (PDF)`_
 
-.. _Droplr Demo Day presentation: http://d.pr/f/1i4hv+
+.. _Droplr demo day slides (PDF): http://d.pr/f/1i4hv+
 About
 ~~~~~~~~~~~~~
 
