@@ -3,16 +3,19 @@ Supportland
 
 | http://supportland.com/
 
-Supportland is a technology company with a social mission that enables independent businesses to create stronger local economies, enhance customer loyalty and increase revenue with a flexible, measurable tool.
-
-Independent businesses make up about one-third of the U.S. economy, but are unable to take competitive advantage of this market share because they don't leverage their most critical resource; shared customers. 
-
 PIE Demo Day - Oct 24, 2014
 ~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
 
     <iframe width="560" height="315" src="//www.youtube.com/embed/yGRHmAi3aSA?list=PLFDgm_9P62ut5sSOPTMMoiz8Xb2z-nJdz&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+About
+~~~~~~~~
+
+Supportland is a technology company with a social mission that enables independent businesses to create stronger local economies, enhance customer loyalty and increase revenue with a flexible, measurable tool.
+
+Independent businesses make up about one-third of the U.S. economy, but are unable to take competitive advantage of this market share because they don't leverage their most critical resource; shared customers. 
 
 
 Our Technology
