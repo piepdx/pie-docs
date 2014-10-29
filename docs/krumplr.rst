@@ -9,7 +9,7 @@ PIE Demo Day - Oct 24, 2014
 
     <iframe width="560" height="315" src="//www.youtube.com/embed/Ch0qv1JQcjk?list=PLFDgm_9P62ut5sSOPTMMoiz8Xb2z-nJdz" frameborder="0" allowfullscreen></iframe>
 
-| `Krumplr demo day slides (PDF)`_
+`Krumplr demo day slides (PDF)`_
 
 .. _`Krumplr Demo Day slides (PDF)`: http://d.pr/f/Gscs
 
