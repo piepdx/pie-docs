@@ -5,10 +5,12 @@ Krumplr
 PIE Demo Day - Oct 24, 2014
 ~~~~~~~~~~~~~~~~~~~~~
 
-| `Krumplr demo day presentation (YouTube)`_
+.. raw:: html
+
+    <iframe width="560" height="315" src="//www.youtube.com/embed/Ch0qv1JQcjk?list=PLFDgm_9P62ut5sSOPTMMoiz8Xb2z-nJdz" frameborder="0" allowfullscreen></iframe>
+
 | `Krumplr demo day slides (PDF)`_
 
-.. _`Krumplr Demo Day presentation (YouTube)`: https://www.youtube.com/watch?v=Ch0qv1JQcjk&list=PLFDgm_9P62ut5sSOPTMMoiz8Xb2z-nJdz&index=8
 .. _`Krumplr Demo Day slides (PDF)`: http://d.pr/f/Gscs
 
 What we are all about
